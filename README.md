@@ -1,4 +1,4 @@
-# Docker Cloud Build
+## Docker Cloud Build
 
 Docker Cloud Build is a GitHub Action that can be used to build Docker images using Google Cloud Storage, Google Cloud
 Build and Google Container Registry. It also has some more features:
